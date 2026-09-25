@@ -30,9 +30,9 @@
                     </ul>
                     <button id="phone-trigger" class="phone-trigger ion-android-call"></button>
                     <ul class="phones">
-                        <li><a href="tel:8121-416-416"><span>Taxi</span> 8121-416-416</a></li>
-                        <li><a href="tel:8121-416-416"><span>Garage</span> 8121-416-416</a></li>
-                        <li><a href="tel:8121-416-416"><span>Contact</span> 8121-416-416</a></li>
+                        <li><a href="tel:8121-416-416"><span>Taxi</span> 100</a></li>
+                        <li><a href="tel:8121-416-416"><span>Garage</span> 112</a></li>
+                        <li><a href="tel:8121-416-416"><span>Contact</span> 108</a></li>
                     </ul>
                 </div>
             </div>
@@ -92,21 +92,21 @@
 			<!-- Slider start -->
 			<div class="slider owl-carousel">
 				<div class="slide">
-					<img src="http://placehold.it/1600x900" alt="" class="slider-image" />
-					<div class="slider-subtitle">Call us 24/7</div>
-					<div class="slider-title">8121-416-416</div>
+					<img src="https://searchmemes.in/templates/9591e228-1cc1-4c72-92ca-467426097dc2.webp" alt="" class="slider-image" />
+					<div class="slider-subtitle"> Ola-Uber Cars 24/7</div>
+					<div class="slider-title"> 1231231230 </div>
 					<div class="slider-button"><a href="about.html" class="btn btn-primary">Read more about us</a></div>
 				</div>
 				<div class="slide">
-					<img src="http://placehold.it/1600x900" alt="" class="slider-image" />
+					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3rV6__I4KN3mPBC77hovm5oDzeqHp_a4a5_1_uXTTLQ&s" alt="" class="slider-image" />
 					<div class="slider-subtitle">Only high qualified</div>
-					<div class="slider-title">Chauffers</div>
+					<div class="slider-title">Auto Bombs</div>
 					<div class="slider-button"><a href="drivers.html" class="btn btn-primary">Check out our drivers</a></div>
 				</div>
 				<div class="slide">
-					<img src="http://placehold.it/1600x900" alt="" class="slider-image" />
-					<div class="slider-subtitle">Our offer includes</div>
-					<div class="slider-title">Services</div>
+					<img src="https://tnmemes.wordpress.com/wp-content/uploads/2017/06/img-20170530-wa0008.jpg" alt="" class="slider-image" />
+					<div class="slider-subtitle">Our offer includes food</div>
+					<div class="slider-title">Services & house</div>
 					<div class="slider-button"><a href="services.html" class="btn btn-primary">How can we help</a></div>
 				</div>
 			</div>
@@ -118,7 +118,7 @@
 					<div class="row">
 						<div class="col-sm-12">
 							<div class="title">
-								<h2>Book taxi online</h2>
+								<h2>Book Ola in Bengaluru</h2>
 								<h6>Save time &amp; money</h6>
 							</div>
 						</div>
